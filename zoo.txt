@@ -1,26 +1,10 @@
-De las cosas interesantes es que la produccion de datos es tan masiva que
-para 2010 ya se habia producido 60 millones de veces mas que la libreria 
-del congreso de estados unidos.
-Tambien la necesidad de visualizar la informacion de manera entendible, 
-lamentalemente parece ser que dada la inmensa variedad de ejemplificar.
-Me intereso el concepto de time-series data que son datos que van cambiando
-con el paso del tiempo.
-Asi tambien es interesante el concepto de exploratory data analysis que es 
-ganar experiencia en como se distribuye la data para informar tranformaciones
-de data y modelar decisiones.
-Igualmente la frecuencia del problema de tener data multivariada ya que es muy 
-dificil ejemplificar data en mas de 3d.
-En relaciona a la vista de datos particularmente me gustaron mucho los graduated symbol maps porque se puede visualizar informacion 
-de multiples lugares a la vez de manera mas atractiva.
-Si bien hay una gran variedad de como mostrar datos me parece cada vwz mas claro que el articulo tiene razon,
-tanta variedad pareciera confusa y aparte es muy dificil entender que quiere dar a entender varios graficos.
-Vale la pena tambien notar la parte de networks, 
-a mi me encanta el deporte y los negocios y muchas veces lo que mas se necesita saber
-es si puede existir una buena relacion entre una parte y otra para mejorar la produccion.
-Dado por ejemplo en deporte cuantas veces se pierde una pelota entre dos jugadores si se puede mejorar esa zona del campo con refuerzos.
-O la cantidad de veces que se tiene una experiencia disatisfactoria en los negocios con una rama de la empresa si se tiene que hacer 
-mejoras en la calidad de servicio
-
-
-
-
+According to one estimate, in 2010 alone we will generate 1,200 exabytes—60 million times the content of the Library of Congress.
+visual encodings
+graphical perception
+ Protovis, an open source language for Web-based data visualization
+ Time-series data—sets of values changing over time—is one of the most common forms of recorded data.
+ exploratory data analysis
+ stacked graph
+ SPLOM
+ choropleth map
+ node-link diagram
